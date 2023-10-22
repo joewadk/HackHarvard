@@ -1,0 +1,95 @@
+.brain {
+  background-color: #ddffd1;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.brain .div {
+  background-color: #ddffd1;
+  height: 900px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.brain .overlap-group {
+  height: 1239px;
+  left: -73px;
+  position: absolute;
+  top: -160px;
+  width: 973px;
+}
+
+.brain .ellipse {
+  background-color: #fafff1;
+  border-radius: 335px/308px;
+  filter: blur(64px);
+  height: 616px;
+  left: -27px;
+  position: absolute;
+  top: 438px;
+  transform: rotate(-90deg);
+  width: 670px;
+}
+
+.brain .ellipse-2 {
+  background-color: #fafff5;
+  border-radius: 307px/319.5px;
+  filter: blur(100px);
+  height: 639px;
+  left: 86px;
+  position: absolute;
+  top: -12px;
+  transform: rotate(-90deg);
+  width: 614px;
+}
+
+.brain .img {
+  height: 836px;
+  left: 110px;
+  position: absolute;
+  top: 219px;
+  transform: rotate(-90deg);
+  width: 890px;
+}
+
+.brain .g {
+  height: 546px;
+  left: 250px;
+  position: absolute;
+  top: 616px;
+  transform: rotate(-90deg);
+  width: 701px;
+}
+
+.brain .text-wrapper {
+  color: #355560;
+  font-family: "Archivo", Helvetica;
+  font-size: 35px;
+  font-weight: 800;
+  left: 6px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1274px;
+  transform: rotate(-90deg);
+  width: 154px;
+}
+
+.brain .text-wrapper-2 {
+  color: #063b59;
+  font-family: "Goudy Bookletter 1911", Helvetica;
+  font-size: 55px;
+  font-weight: 400;
+  left: -49px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1170px;
+  transform: rotate(-90deg);
+  width: 456px;
+}
